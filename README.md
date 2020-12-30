@@ -1,5 +1,5 @@
 # Processing_Assignments
-In this Assignment we are using processing.
+In this Assignment we are using processing library.
 
 In app -> src -> main/java -> have three classes.
 
